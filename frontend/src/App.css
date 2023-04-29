@@ -1,0 +1,23 @@
+.App {
+    height: 90vh;
+    width: 100%;
+
+    padding-top: 5vh;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+form * {
+    padding: 0.5em;
+}
+
+.urlResponse {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
